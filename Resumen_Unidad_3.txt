@@ -1,0 +1,7 @@
+Unidad 3 
+GIT
+Es una plataforma que hace el uso de cambios de versiones, un controlador de versiones(versionario) es util cuando se necesita degar un registro de los diferentes cambios que tuvo tal programa.
+Se dio a conocer el controlador de version(en este caso) GIT el uso y la implementacion de esta como tambien el uso correcto de la plataforma GITHUB.
+(palabras propias)
+El metodo usado (GIT) creo que es el nicho que poco a poco se esta dejando ya que las IDES como las plataformas (GITHUB) estan implementado metos mas sencillos para dejar cambios registrados, pero el uso de varias formas separadas sigo diciendo es mucho mejor ya que tienes un control aparte para cada una y si tienes un ploblema con una, no la tendrias en un solo lugar y no saber identificar cual seria el causante(aunque tambien estan las consolas/terminales).
+Como ultimo ya habia olvidado usar git ya que usaba las version antiguas xd

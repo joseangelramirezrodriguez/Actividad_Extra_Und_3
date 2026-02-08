@@ -1,0 +1,10 @@
+Fundamentos de la computacion y sistemas numericos
+En este tema se profundizo como las computadoras interpretan la informacion textual mediante el codigo binario como tambien el codigo ASCII que es el estandar para asignar un valor numerico decimal a cada caracter.
+Mi dificultad fueron los metodos para comvertir las letras a binario ya que me costo que la potencias de 2 qudarian bien en cada bit en su posicion correcta.
+Logica 
+Aprendimos sobre como dividir una tarea compleja en pasos secuenciales y logicos para lograr el objetivo, se utilizaban las estructuras logicas para resolver problemas practicos.
+No tuve mayor problema pero si en el seguimiento de los pasos con mas de una posibilidad.
+Algoritmo 
+Son pasos que debemos seguir para resolver un problema y un orden logico.
+no tuve mayor problema en la manera de resolver el problema pero si en la manera de como lo aplicamos 
+EL tema que mas me intereso fuel de la logica ya que son intrucciones que le damos a una pc(etc),que inclso en la practica de programar es algo que se mira.

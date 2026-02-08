@@ -1,0 +1,4 @@
+(Resumire en total toda la unidad esta vez que por temas)
+En la unidad 2 empezamos a ver los conceptos basico de javascript estos serian como las variables que son etiquetas que se le pueden asignar un nombre o concreto o indefinido y otras mas como seria los tipos de datos, las etiquetas de verdad y falsedad como tambien el uso correcto de los bucles, siento que el tema mas importante que se aplendio fue el uso de los tipos de datos ya que sabiendo el uso correcto de estos se pueden aplicar en varios metodos en el mismo campo.
+Lo mas dificil fue el echo de aplicar un bucle que no sea infinito como tanto finito 
+como punto extra si me gusto las actividades estuve jugando un buen tiempo para hacerlas xd
