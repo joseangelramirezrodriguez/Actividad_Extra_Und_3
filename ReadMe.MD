@@ -1,1 +1,0 @@
-# He seleccionado la Licencia MIT debido a que es una licencia permisiva que permite el uso, modificación y distribución del software sin restricciones significativas en este caso  con fines educativos.
